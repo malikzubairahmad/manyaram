@@ -1,4 +1,4 @@
-- 👋 Hi, I’m manyaram
+- 👋 Hi, I’m zubair ahmad
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development at an advanced level
 - 💞️ I’m looking to collaborate on a different platform
